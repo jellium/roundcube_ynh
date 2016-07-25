@@ -5,10 +5,10 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "https://plugins.roundcube.net/packages/"
+            "url": "https://plugins.roundcube.net/"
         }
     ],
     "require": {
-        "roundcube/plugin-installer": ">=0.1.6"
+        "roundcube/plugin-installer": "dev-master"
     }
 }
