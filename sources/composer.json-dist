@@ -5,7 +5,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/roundcube/Net_Sieve.git"
+            "url": "https://github.com/pear/Net_Sieve"
         },
         {
             "type": "composer",
