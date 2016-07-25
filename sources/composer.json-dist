@@ -10,6 +10,5 @@
     ],
     "require": {
         "roundcube/plugin-installer": ">=0.1.6"
-    },
-    "minimum-stability": "dev"
+    }
 }
